@@ -1,0 +1,23 @@
+{
+    "ApiData": {
+        "Username": "",
+        "Password": "", 
+        "BaseUrl": "https://xml2.txodds.com/",
+        "EndUrl": ".php?",
+        "FeedType": "feed/odds/xml",
+        "UrlOptions": {
+            "mgstr": "FBENG",
+            "days": "14",
+            "ot": "0",
+            "all_odds": "1",
+            "json": "1"
+        }
+    },
+    "DBData": {
+        "Host": "localhost",
+        "Port": "5432",
+        "DBUser": "guest",
+        "DBPassword": "guest",
+        "DBName": "odds"
+    }
+}
